@@ -1,2 +1,2 @@
 # Jupyter-Notebooks
-miscellaneous data science, machine learning, and bioinformatics projects &amp; exercises made during highschool days
+Miscellaneous data science, machine learning, and bioinformatics projects &amp; exercises made during highschool days.
